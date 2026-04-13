@@ -1,0 +1,5 @@
+Sample ID    Total SNPs   Non-synonymous SNPs   Epitope candidates
+LSDV_01      247          12                    3
+LSDV_02      231          10                    2
+LSDV_03      258          14                    4
+Mean         245.3        12                    3
